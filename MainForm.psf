@@ -2570,11 +2570,6 @@ $formDefaultBrowserSwitch_Load = {
 }
 
 
-$exitToolStripMenuItem_Click={
-	#TODO: Place custom script here
-	$formDefaultBrowserSwitch.Close()
-}
-
 $buttonSwitchToChrome_Click={
 	Set-DefaultBrowser -Browser Chrome
 	
@@ -2602,9 +2597,8 @@ function Set-DefaultBrowser
         Vaild Options are Chrome, Firefox, IE
     .EXAMPLE 
         Set-DefaultBrowser -Browser Firefox
-    .Notes 
+    .REMARKS 
         https://stackoverflow.com/questions/17536405/cant-set-chrome-as-default-browser-from-powershell
-        # Set-DefaultBrowser cr
     #>
 	[CmdletBinding(ConfirmImpact = 'None')]
 	param
@@ -2658,7 +2652,7 @@ function Set-RegProperty
         
     .EXAMPLE 
         
-    .Notes 
+    .REMARKS 
         https://blogs.technet.microsoft.com/heyscriptingguy/2015/04/02/update-or-add-registry-key-value-with-powershell/
     #>
 	[CmdletBinding(ConfirmImpact = 'None')]
@@ -2699,7 +2693,7 @@ function Get-CurrentDefaultBrowser
         
     .EXAMPLE 
         
-    .Notes 
+    .REMARKS 
 	
     #>
 	[CmdletBinding(ConfirmImpact = 'None')]
@@ -2730,6 +2724,6 @@ function Get-CurrentDefaultBrowser
 		}
 	}
 }]]></Code>
-  <Mode>0</Mode>
+  <Mode>1</Mode>
   <Assemblies />
 </File>
