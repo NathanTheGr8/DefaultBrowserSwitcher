@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path d="M464,32H48C21.5,32,0,53.5,0,80v352c0,26.5,21.5,48,48,48h416c26.5,0,48-21.5,48-48V80C512,53.5,490.5,32,464,32z M48,92
+	c0-6.6,5.4-12,12-12h40c6.6,0,12,5.4,12,12v24c0,6.6-5.4,12-12,12H60c-6.6,0-12-5.4-12-12V92z M464,426c0,3.3-2.7,6-6,6H54
+	c-3.3,0-6-2.7-6-6V168h416V426z M464,116c0,6.6-5.4,12-12,12H172c-6.6,0-12-5.4-12-12V92c0-6.6,5.4-12,12-12h280c6.6,0,12,5.4,12,12
+	V116z"/>
+<rect x="48" y="168" class="st0" width="416" height="264"/>
+<path class="st0" d="M452,128H172c-6.6,0-12-5.4-12-12V92c0-6.6,5.4-12,12-12h280c6.6,0,12,5.4,12,12v24
+	C464,122.6,458.6,128,452,128z"/>
+<path class="st0" d="M100,128H60c-6.6,0-12-5.4-12-12V92c0-6.6,5.4-12,12-12h40c6.6,0,12,5.4,12,12v24C112,122.6,106.6,128,100,128z
+	"/>
+</svg>
